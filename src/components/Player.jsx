@@ -65,7 +65,7 @@ const Player = () => {
 
   return (
     <section className="h-screen overflow-y-hidden" style={slide}>
-      <img className="z-[-1] fixed blue__gradient" src="https://w.wallhaven.cc/full/1p/wallhaven-1pgppv.jpg" alt="" />
+      <img className="z-[-1] fixed blue__gradient" src="any image" alt="" />
 
       <Link to="/">
         <RxCross2
